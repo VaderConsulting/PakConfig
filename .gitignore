@@ -1,0 +1,36 @@
+# Build / IDE
+bin/
+obj/
+.vs/
+*.suo
+*.user
+*.vbw
+*.scc
+*.vssscc
+*.vspscc
+*.exe
+*.dll
+*.ocx
+*.lib
+*.exp
+*.pdb
+*.log
+*.tmp
+*.bak
+
+# Secrets / credentials (never upload)
+*.pfx
+*.p12
+*.pem
+*.key
+.env
+
+# Redacted originals (see *.example files)
+clsxp.bas
+User Controls/xpcheckbox.ctl
+User Controls/xptopbuttons.ctl
+User Controls/xphelp.ctl
+User Controls/xpradiobutton.ctl
+User Controls/xpcmdbutton.ctl
+User Controls/xpgroupbox.ctl
+User Controls/xp_canvas.ctl
