@@ -1,6 +1,6 @@
 # PakConfig
 
-VB6 package-configuration UI (`PakConfig.exe`) with XP-styled controls, a browse dialog, and helpers for gradients/shaped windows; includes a Package Security Group Names spreadsheet alongside the form. Open `PakConfig.vbp` in the VB6 IDE.
+VB6 Package Configuration UI (`PakConfig.exe`) with XP-styled controls to assign packages to computers and users (browse/add lists, package list box) plus gradient and shaped-window helpers. Open `PakConfig.vbp` in the VB6 IDE.
 
 **Source last updated:** 2026-08-27 · **Language:** VB6 · **Target:** VB6 Win32 · **Output:** WinForms exe
 
